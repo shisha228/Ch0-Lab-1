@@ -1,0 +1,9 @@
+﻿  function_1.c
+  function_2.c
+  function_3.c
+  function_4.c
+  function_5.c
+c:\code\ch2_lab1-2\source\function_5.c(11): warning C4101: 'temp2': 未參考的區域變數
+  main.c
+c:\code\ch2_lab1-2\source\main.c(3): fatal error C1083: 無法開啟包含檔案: 'Han_Xin.h': No such file or directory
+  正在產生程式碼...
